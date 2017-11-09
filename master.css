@@ -13,3 +13,20 @@ h1 {
     /* top right bottom left */
     margin: 25px 50px 25px 50px;
 }
+
+h2 {
+  text-align: center;
+  color: #3f55c5;
+  font: 40px 'Passion One', cursive;
+  font-style: italic;
+  font-style: 700;
+  /* top right bottom left */
+  margin: 25px 50px 25px 50px;
+}
+
+p {
+  text-align: left;
+  color: #3f55c5;
+  font: 24px 'Passion One', cursive;
+  margin: 25px 50px 25px 50px;
+}

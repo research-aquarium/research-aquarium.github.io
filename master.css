@@ -1,0 +1,15 @@
+/* Passion One from Google Fonts: 400 regular and 700 bold */
+@import url('https://fonts.googleapis.com/css?family=Passion+One:400,700');
+
+body {
+  background: #d0dAd0;
+}
+
+h1 {
+    text-align: center;
+    color: #89b414;
+    font: 64px 'Passion One', cursive;
+    font-weight: 700;
+    /* top right bottom left */
+    margin: 25px 50px 25px 50px;
+}
